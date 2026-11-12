@@ -1,0 +1,17 @@
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.lnp
+*.map
+*.dep
+*.lst
+*.iex
+*.build_log.htm
+*.uvguix.*
+*.scvd
+
+
+MDK-ARM/Objects/
+MDK-ARM/Listings/
